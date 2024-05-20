@@ -62,7 +62,7 @@ You can [download](https://github.com/GustavoSMafra/parking-spot-detector.git) t
 This software uses the following open source packages:
 
 - [urllib](https://docs.python.org/3/library/urllib.html)
-- [opencv-python]([https://tailwindcss.com/](https://pypi.org/project/opencv-python/))
+- [opencv-python](https://pypi.org/project/opencv-python/)
 - [pickle](https://docs.python.org/3/library/pickle.html)
 - [cvzone](https://github.com/cvzone/cvzone)
 - [numpy](https://numpy.org/)
