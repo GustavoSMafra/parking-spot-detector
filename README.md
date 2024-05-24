@@ -12,7 +12,7 @@
   <a href="#credits">Credits</a> •
 </p>
 
-
+![screenshot](https://github.com/GustavoSMafra/parking-spot-detector/blob/main/imgs/slot-detector-script.png)
 
 ## Key Features
 
